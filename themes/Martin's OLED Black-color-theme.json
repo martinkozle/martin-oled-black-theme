@@ -634,6 +634,12 @@
 			}
 		},
 		{
+			"scope": "variable.parameter.function.language.special.cls",
+			"settings": {
+				"foreground": "#0033ff"
+			}
+		},
+		{
 			"scope": [
 				"variable.other",
 			],
