@@ -1,0 +1,26 @@
+{
+  "name": "martin-oled-black-theme",
+  "displayName": "Martin's OLED Black Theme",
+  "description": "Opinionated OLED black theme based on Dark Modern. With colorful token colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinkozle/martin-oled-black-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Martin's OLED Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Martin's OLED Black-color-theme.json"
+      }
+    ]
+  }
+}
