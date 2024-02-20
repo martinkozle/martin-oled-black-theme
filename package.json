@@ -2,6 +2,7 @@
   "name": "martin-oled-black-theme",
   "displayName": "Martin's OLED Black Theme",
   "description": "Opinionated OLED black theme based on Dark Modern. With colorful token colors.",
+  "publisher": "martinkozle",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
